@@ -1,5 +1,3 @@
 # misc
 
 test
-lol
-test
